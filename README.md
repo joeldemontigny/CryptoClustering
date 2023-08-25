@@ -23,4 +23,4 @@ Scatter PCA
 ![Scatter2](https://github.com/joeldemontigny/CryptoClustering/assets/130711180/445bc8fd-8f97-42c7-901b-323cacbaa3d1)
 
 
-## Analysis: Both data source for each applicable Elbow Curve graphs indicate immaterial changes in values.  The Scatter Plots however depict material differences.  Mainly, the PCA clusters have a more dense distribution, therefore narrowing or improving the odds of probability for predictive modeling.  
+## Analysis: Both data source for each applicable Elbow Curve graphs indicate immaterial changes in values.  The Scatter Plots however depict material differences.  Mainly, the PCA clusters have a more dense distribution, therefore improving the accuracy of predictive modeling.  
